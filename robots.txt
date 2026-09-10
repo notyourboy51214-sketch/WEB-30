@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://29-septic-aquaduct.netlify.app/sitemap.xml
